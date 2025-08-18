@@ -2,16 +2,29 @@ payload:
     #APL
     - +.aip.org
     - +.silverchair.com
+    - +.aps.org
     #IEEE
     - +.ieee.org
+    - +.ieee-iedm.org
     #ELSEVIER
     - +.sciencedirect.com
-
+    
     #wen of science
     - +.webofscience.com
     - +.clarivate.*
     - +.endnote.com
+    - +.science.org
+    - +.acs.org
+    - +.wiley.com
+    
+    
 
     #other journal
     - +.optica.org
     - +.nature.com
+    - +.arxiv.org
+    - +.annualreviews.org
+
+    #Others
+    - +.deepseek.com
+    - +.deepl.com
