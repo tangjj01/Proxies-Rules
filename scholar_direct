@@ -1,0 +1,13 @@
+payload:
+    #APL
+    - +.aip.org
+    - +.silverchair.com
+    #IEEE
+    - +.ieee.org
+    #wen of science
+    - +.webofscience.com
+    - +.clarivate.*
+    - +.endnote.com
+
+
+    #other
