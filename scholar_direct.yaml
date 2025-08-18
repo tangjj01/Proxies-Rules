@@ -4,10 +4,14 @@ payload:
     - +.silverchair.com
     #IEEE
     - +.ieee.org
+    #ELSEVIER
+    - +.sciencedirect.com
+
     #wen of science
     - +.webofscience.com
     - +.clarivate.*
     - +.endnote.com
 
-
-    #other
+    #other journal
+    - +.optica.org
+    - +.nature.com
