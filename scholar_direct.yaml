@@ -1,11 +1,14 @@
 payload:
     #APL
     - +.aip.org
+    - +.acs.org
+    - +.aps.org
     - +.silverchair.com
     
     #IEEE
     - +.ieee.org
     - +.ieee-iedm.org
+    
     #ELSEVIER
     - +.sciencedirect.com
     - +.sciencedirectassets.com
@@ -16,17 +19,18 @@ payload:
     - +.endnote.com
     
     #other journal
-    - +.iop.org
-    - +.optica.org
-    - +.nature.com
-    - +.arxiv.org
-    - +.annualreviews.org
     - +.science.org
-    - +.acs.org
-    - +.aps.org
+    - +.nature.com
     - +.wiley.com
+    - +.iop.org
     - +.springer.com
     - +.mdpi.com
+    - +.optica.org
+    - +.arxiv.org
+    - +.annualreviews.org
+    
+    
+    
 
 
 
