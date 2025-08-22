@@ -4,6 +4,7 @@ payload:
     - +.acs.org
     - +.aps.org
     - +.silverchair.com
+    - +.silverchair-cdn.com
     
     #IEEE
     - +.ieee.org
