@@ -17,6 +17,7 @@ payload:
     - +.webofscience.com
     - +.clarivate.*
     - +.endnote.com
+    - +.myendnoteweb.com
     
     #other journal
     - +.science.org
