@@ -34,6 +34,21 @@ payload:
 
     #robot check
     - +.verasafe.com
+    - +.recaptcha.net
+    - +.hcaptcha.com
+    - +.newassets.hcaptcha.com
+    - +.challenges.cloudflare.com
+    - +.turnstile.cloudflare.com
+    - +.cf-ns.com
+    - +.arkoselabs.com
+    - +.funcaptcha.com
+    - +.px-cdn.net
+    - +.perimeterx.net
+    - +.datadome.co
+    - +.imperva.com
+    - +.captcha-delivery.com
+    - +.solve.captcha.com
+    - +.cloudflare.com
     
     
     
