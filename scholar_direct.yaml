@@ -13,6 +13,7 @@ payload:
     #ELSEVIER
     - +.sciencedirect.com
     - +.sciencedirectassets.com
+    - +.elseviercdn.cn
     
     #wen of science
     - +.webofscience.com
