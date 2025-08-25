@@ -5,6 +5,9 @@ payload:
     - +.aps.org
     - +.silverchair.com
     - +.silverchair-cdn.com
+    - +.figstatic.com
+    - +.figshare.com
+    - +.crossref.org
     
     #IEEE
     - +.ieee.org
@@ -31,6 +34,7 @@ payload:
     - +.optica.org
     - +.arxiv.org
     - +.annualreviews.org
+    
 
     #robot check
     - +.verasafe.com
@@ -49,6 +53,14 @@ payload:
     - +.captcha-delivery.com
     - +.solve.captcha.com
     - +.cloudflare.com
+    #amazon
+    - +.amazon.com
+    - +.amazon.co.jp
+    - +.amazon.co.uk
+    - +.amazonaws.com
+    - +.media-amazon.com
+    - +.ssl-images-amazon.com
+    - +.images-amazon.com
     
     
     
