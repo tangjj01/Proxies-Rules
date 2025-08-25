@@ -31,6 +31,9 @@ payload:
     - +.optica.org
     - +.arxiv.org
     - +.annualreviews.org
+
+    #robot check
+    - +.verasafe.com
     
     
     
