@@ -37,9 +37,13 @@ payload:
     
 
     #robot check
+    - +.botstop.com
+    - +.hcaptchastatus.com
+    - +.hcaptcha.com
+    - +.vaptcha.com,
+    - +.vaptcha.net  
     - +.verasafe.com
     - +.recaptcha.net
-    - +.hcaptcha.com
     - +.newassets.hcaptcha.com
     - +.challenges.cloudflare.com
     - +.turnstile.cloudflare.com
